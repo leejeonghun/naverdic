@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "naverdic", "naverdic\naverdic.vcxproj", "{B446CC8D-8515-4FD9-8800-0027E72A7410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		asm_only|Win32 = asm_only|Win32
+		asm_with_crt|Win32 = asm_with_crt|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B446CC8D-8515-4FD9-8800-0027E72A7410}.asm_only|Win32.ActiveCfg = asm_only|Win32
+		{B446CC8D-8515-4FD9-8800-0027E72A7410}.asm_only|Win32.Build.0 = asm_only|Win32
+		{B446CC8D-8515-4FD9-8800-0027E72A7410}.asm_with_crt|Win32.ActiveCfg = asm_with_crt|Win32
+		{B446CC8D-8515-4FD9-8800-0027E72A7410}.asm_with_crt|Win32.Build.0 = asm_with_crt|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
